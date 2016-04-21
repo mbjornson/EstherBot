@@ -9,9 +9,11 @@
     "WHAT MARTIAL ARTS": "He studies a mix of arts as he started with Bruce Lee's Jeet Kune Do when he was 16. Inosanto Kali, Muay Thai, Savate and Silat. He also studies some secret stuff (NO, NOT NINJITSU)",
     "NINJITSU": "Yeah that shit is fake",
     "CONNECT ME": "",
-    "HOW CAN I REACH YOU":"You can email him at mbjornson@gmail.com",
+    "HOW CAN I REACH HIM":"You can email him at mbjornson@gmail.com",
     "WHERE IS HE WORKING NOW": "He is open to new opportunities",
     "WHAT WAS HIS LAST JOB": "He was VP of Product & Growth at LeadPages",
     "WHAT IS HE CURRENTLY WORKING ON": "Thats an interesting question... Right now, Matt is working on a bunch of stuff, MattBot and a tool to help companies with product discovery",
+    "WHAT DESIGN TOOLS DOES HE USE": "He uses Sketch, Balsamiq and FramerJS. He's excited to try the new FramerJS! Oh and XCode isn't *that* bad.",
+    "WHAT CAN HE DO WITH TECH":"He has been building products with Ruby on Rails since about 2005 and has started learning React and Redux. He has done some stuff with NodeJS and Express as well. Oh and he really likes using Swift to build iOS apps.",
     "DISCONNECT": "Roger that, MattBot is back."
 }
