@@ -1,8 +1,11 @@
 {
     "HELLO": "Hey, I'm here to help you find out about Matt!",
-    "TWITTER": "Let's tweet @ Matt so he knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
+    "TWITTER": "Let's tweet @Matt so he knows you talking to me. Here's a tweet that's ready to go: http://bit.ly/tweet-mattbot",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
+    "HOW CAN I REACH MATT":"You can email him at mbjornson@gmail.com",
+    "WHERE IS HE WORKING NOW": "He is open to new opportunities",
+    "WHAT WAS HIS LAST JOB": "He was VP of Product & Growth at LeadPages",
     "WHAT IS HE CURRENTLY WORKING ON": "Thats an interesting question... Right now, Matt is working on a bunch of stuff, MattBot and a tool to help companies with product discovery",
     "DISCONNECT": "Roger that, MattBot is back."
 }
